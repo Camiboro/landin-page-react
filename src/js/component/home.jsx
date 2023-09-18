@@ -11,7 +11,7 @@ const Home = () => {
                 <button>Contact</button>
             </nav>
 
-            <div className="container"> {/* Nuevo contenedor */}
+            <div className="container"> 
 			<div className="jumbotron">
     <h1 className="jumbotron-title">Título del Jumbotron</h1>
     <p className="jumbotron-text">
